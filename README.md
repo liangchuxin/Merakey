@@ -9,12 +9,12 @@
   <br />
   <sub>Originally built as an IB CS IA project.</sub>
 </p>
-
 <p align="center">
   <a href="https://liangchuxin.github.io/Merakey/">Live demo</a>
   ·
-  <a href="docs/Criterion-C-Development.pdf">Original IA documentation</a>
+  <a href="https://github.com/liangchuxin/Merakey/blob/main/docs/Criterion%20C%20__%20Development.pdf">Original IA documentation</a>
 </p>
+
 
 ---
 
